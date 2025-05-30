@@ -304,9 +304,6 @@ Synthesis RTL Schematic:
 
 ![Screenshot 2025-05-27 113355](https://github.com/user-attachments/assets/065e5273-6495-438b-b4af-e4cad3f39aaa)
 
-#### Timing Report:
-
-![Screenshot (246)](https://github.com/user-attachments/assets/4a9422c6-c654-4068-bab8-09d4d67b84c9)
 
 
 
