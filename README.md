@@ -260,6 +260,7 @@ gui_show
 ~~~
 
 ◦ SDC (Synopsis Design Constraint) File (.sdc)
+![Screenshot 2025-05-26 203912](https://github.com/user-attachments/assets/3527b38c-ae01-4d8f-b51f-9259c97fe111)
 
 * In your terminal type “gedit input_constraints.sdc” to create an SDC File if you do not have one.
 * The SDC File must contain the following commands;
@@ -286,30 +287,27 @@ Step 3 : Performing Synthesis
 
 RTL Simulation:
 
-![image](https://github.com/user-attachments/assets/5026f757-ad54-4df6-8885-289dd68a0bcf)
+![Screenshot 2025-05-27 110344](https://github.com/user-attachments/assets/05043e02-3328-40a0-b93b-109687877c1e)
+
 
 
 Synthesis RTL Schematic:
 
-![Screenshot (242)](https://github.com/user-attachments/assets/64a31f92-641f-430a-b341-d003d1b131d9)
+![Screenshot 2025-05-27 113026](https://github.com/user-attachments/assets/131e68d1-efc1-4032-a598-3ab88710e04b)
+
 
 #### Area Report:
 
-![Screenshot (243)](https://github.com/user-attachments/assets/0b27143f-617b-4f49-982c-872b9187419a)
+![Screenshot 2025-05-27 113301](https://github.com/user-attachments/assets/71c773b8-af20-4c1d-93a5-d1f008b648ec)
 
 #### Power Report:
 
-![Screenshot (244)](https://github.com/user-attachments/assets/d0dcff3d-e158-4258-b907-4787ee862583)
+![Screenshot 2025-05-27 113355](https://github.com/user-attachments/assets/065e5273-6495-438b-b4af-e4cad3f39aaa)
 
 #### Timing Report:
 
 ![Screenshot (246)](https://github.com/user-attachments/assets/4a9422c6-c654-4068-bab8-09d4d67b84c9)
 
-### FLOORPLANNING:
-
-![Screenshot (264)](https://github.com/user-attachments/assets/65df4f14-ad1b-4805-8182-89f3123ec9bc)
-
-![Screenshot (269)](https://github.com/user-attachments/assets/c1d2a669-f4f4-4926-a4bf-b0c020366175)
 
 
 ### RESULT:
